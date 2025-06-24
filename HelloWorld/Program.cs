@@ -134,6 +134,7 @@ namespace HelloWorld      //Route nmaespace
 
             p1.x =30;
             Console.WriteLine();
+
             Console.WriteLine(p1.y);
             Console.WriteLine(p2.x);
             Console.WriteLine("Demo1");
@@ -142,7 +143,7 @@ namespace HelloWorld      //Route nmaespace
             #endregion
             #endregion
 
-
+            ///////
 
 
         }
